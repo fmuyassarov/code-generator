@@ -25,7 +25,7 @@ limitations under the License.
 //
 //	// +k8s:prerelease-lifecycle-gen=true
 //
-// // +k8s:prerelease-lifecycle-gen:introduced=1.19
+// // +k8s:prerelease-lifecycle-gen:introduced=1.20
 // // +k8s:prerelease-lifecycle-gen:deprecated=1.22
 // // +k8s:prerelease-lifecycle-gen:removed=1.25
 // // +k8s:prerelease-lifecycle-gen:replacement=wardle.example.com,v1,Flunder
